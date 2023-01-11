@@ -7,11 +7,7 @@ public class test2 {
 		
 		System.out.println("Palindrome");
 		
-		String lenth;
-		//for(int i=0; i<=lenth; i++)
-		{
-			
-		}
+		
 		
 		
 	}

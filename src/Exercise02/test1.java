@@ -11,7 +11,6 @@ public class test1 {
 		  for (int i = 0; i < UniqueNumbers.size(); ++i) {
 	            System.out.println(UniqueNumbers.get(i));
 	        }
-		  gobi
 	}
 
 }
